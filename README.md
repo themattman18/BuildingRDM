@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+As you may have found out, the documentation for building the Redis Desktop Manager isn't great.  These instructions will (hopefully) allow you to build the project from source and distribute it to your team members.
+
+These directions work for the 2019.5 version of the Redis Desktop Manager
+
+## Step 1 - RDM documentation
+Follow the directions located [here.](http://docs.redisdesktop.com/en/latest/install/#build-from-source)
+
+If you can't get a successful build following these directions then there isn't any point in continuing on to the next step.
 
 You can use the [editor on GitHub](https://github.com/themattman18/BuildingRDM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
