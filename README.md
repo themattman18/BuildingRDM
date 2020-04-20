@@ -1,6 +1,9 @@
+## Intro
+
 As you may have found out, the documentation for building the Redis Desktop Manager isn't great.  These instructions will (hopefully) allow you to build the project from source and distribute it to your team members.
 
 These directions work for the 2019.5 version of the Redis Desktop Manager
+These directions are for building and installing RDM on Windows
 
 ## Step 1 - RDM documentation
 Follow the directions located [here.](http://docs.redisdesktop.com/en/latest/install/#build-from-source)
