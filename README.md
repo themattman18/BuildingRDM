@@ -15,4 +15,6 @@ If you want to deploy this application or just run it without opening the QT com
 
 
 Run the following command:
+```
 <Path to QT install>\msvc2017_64\bin\windeployqt.exe --qmldir <Path to cloned repo>\src\qml\ <Path to cloned repo>\bin\windows\release\rdm.exe
+```
