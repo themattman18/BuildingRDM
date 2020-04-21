@@ -7,6 +7,9 @@ These directions work for the 2019.5 version of the Redis Desktop Manager and ar
 ## Step 1 - RDM documentation
 Follow the directions located [here.](http://docs.redisdesktop.com/en/latest/install/#build-from-source)
 
+Before you're able to build the project, you'll need to configure your kit.
+
+
 If you can't get a successful build following these directions then there isn't any point in continuing on to the next step.
 
 ## Step 2 - Run QT application deployment
