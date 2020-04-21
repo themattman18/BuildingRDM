@@ -10,3 +10,6 @@ Follow the directions located [here.](http://docs.redisdesktop.com/en/latest/ins
 If you can't get a successful build following these directions then there isn't any point in continuing on to the next step.
 
 ## Step 2 - Run QT application deployment
+
+Run the following command:
+<Path to QT install>\msvc2017_64\bin\windeployqt.exe --qmldir <Path to cloned repo>\src\qml\ <Path to cloned repo>\bin\windows\release\rdm.exe
