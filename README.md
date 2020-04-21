@@ -29,3 +29,6 @@ At this point you should be able to run the program!  Just copy the release dire
 
 ## Debug tools
 If you still can't get the program to run, try downloading the [Windows debug viewer.](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview) Open this debugger before running rmd.exe and see what's erroring.
+
+## Releases
+[2019.5](releases/RedisDesktopManager-2019.5.7z)
